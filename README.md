@@ -1,10 +1,21 @@
-<h1 align="center">Hi This is Hasan</h1>
-<h3 align="center">A passionate React Laravel and Wordpress developer from Bangladesh</h3>
+<h1 align="left">Hi this is Hasan</h1>
+<h3 align="left">A passionate React Laravel and Wordpress developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanahmedhasan" alt="farhanahmedhasan" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=farhanahmedhasan&margin-w=15&margin-h=15" alt="farhanahmedhasan" />
+  </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.facebook.com/optionalchaining" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
+  </a>
+  
+  <a href="https://wa.me/01903098148" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
